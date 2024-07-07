@@ -10,3 +10,7 @@
 
 ## Magic 8 Ball
 <img width="307" alt="image" src="https://github.com/mivCalik/flutter_projects/assets/57195581/94044169-4465-40cf-b8e4-7aad3dc72b58">
+
+## Xylophone App
+
+<img width="312" alt="image" src="https://github.com/mivCalik/flutter_projects/assets/57195581/a06c8455-4722-4b03-b5c3-928ca12b6a4b">
