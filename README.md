@@ -6,3 +6,7 @@
 ## Dicee
 
 <img width="316" alt="image" src="https://github.com/mivCalik/flutter_projects/assets/57195581/3a424779-d2aa-4a97-a8b5-50609b5f22f4">
+
+
+## Magic 8 Ball
+<img width="307" alt="image" src="https://github.com/mivCalik/flutter_projects/assets/57195581/94044169-4465-40cf-b8e4-7aad3dc72b58">
